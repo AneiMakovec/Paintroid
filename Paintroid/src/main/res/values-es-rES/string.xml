@@ -38,6 +38,7 @@
     <string name="button_spray_can">Lata de spray</string>
     <string name="button_apply">Aplicar</string>
     <string name="button_checkmark">Marca de verificación</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Listo</string>
     <string name="gallery">Galería</string>
     <string name="load_sticker_error">No se ha podido cargar el Sticker</string>

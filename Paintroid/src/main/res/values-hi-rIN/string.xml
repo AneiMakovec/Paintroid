@@ -38,6 +38,7 @@
     <string name="button_spray_can">स्प्रे कैन</string>
     <string name="button_apply">लागू करें</string>
     <string name="button_checkmark">सही का निशान</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">हो गया</string>
     <string name="gallery">गैलरी</string>
     <string name="load_sticker_error">स्टिकर लोड नहीं हो सका</string>

@@ -38,6 +38,7 @@
     <string name="button_spray_can">Sprej</string>
     <string name="button_apply">Zastosuj</string>
     <string name="button_checkmark">Zaznaczenie</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Zrobione</string>
     <string name="gallery">Galeria</string>
     <string name="load_sticker_error">Nie można załadować naklejki</string>

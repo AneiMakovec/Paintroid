@@ -38,6 +38,7 @@
     <string name="button_spray_can">سپری کولی شی</string>
     <string name="button_apply">تطبیق کړئ</string>
     <string name="button_checkmark">چک مارک</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">ترسره شو</string>
     <string name="gallery">ګالری</string>
     <string name="load_sticker_error">سټیکر نشي پورته کولی</string>

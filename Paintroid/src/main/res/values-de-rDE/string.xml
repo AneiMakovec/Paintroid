@@ -38,6 +38,7 @@
     <string name="button_spray_can">Sprühdose</string>
     <string name="button_apply">Anwenden</string>
     <string name="button_checkmark">Häkchen</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Fertig</string>
     <string name="gallery">Galerie</string>
     <string name="load_sticker_error">Konnte Sticker nicht laden</string>

@@ -38,6 +38,7 @@
     <string name="button_spray_can">স্প্রে করতে পারেন</string>
     <string name="button_apply">প্রয়োগ করুন</string>
     <string name="button_checkmark">চেক চিহ্ন</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">করা হয়েছে</string>
     <string name="gallery">গ্যালারী</string>
     <string name="load_sticker_error">স্টিকার লোড করা যায়নি</string>

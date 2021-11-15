@@ -38,6 +38,7 @@
     <string name="button_spray_can">Tanica spray</string>
     <string name="button_apply">Applica</string>
     <string name="button_checkmark">Segno di spunta</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Fatto</string>
     <string name="gallery">Galleria</string>
     <string name="load_sticker_error">Impossibile caricare l\'Adesivo</string>

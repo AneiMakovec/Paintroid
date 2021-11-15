@@ -38,6 +38,7 @@
     <string name="button_spray_can">Баллончик</string>
     <string name="button_apply">Применить</string>
     <string name="button_checkmark">Галочка</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Готово</string>
     <string name="gallery">Галерея</string>
     <string name="load_sticker_error">Не удалось загрузить стикер</string>

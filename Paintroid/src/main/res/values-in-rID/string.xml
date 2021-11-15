@@ -38,6 +38,7 @@
     <string name="button_spray_can">Kaleng semprot</string>
     <string name="button_apply">Menerapkan</string>
     <string name="button_checkmark">Tanda cek</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Selesai</string>
     <string name="gallery">Galeri</string>
     <string name="load_sticker_error">Tidak dapat memuat Stiker</string>

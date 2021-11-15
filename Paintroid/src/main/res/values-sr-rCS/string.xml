@@ -38,6 +38,7 @@
     <string name="button_spray_can">Spray can</string>
     <string name="button_apply">Primeni</string>
     <string name="button_checkmark">Checkmark</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Gotovo</string>
     <string name="gallery">Izaberi sliku</string>
     <string name="load_sticker_error">Could not load Sticker</string>

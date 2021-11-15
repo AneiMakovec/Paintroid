@@ -38,6 +38,7 @@
     <string name="button_spray_can">Sprey Kutusu</string>
     <string name="button_apply">Uygula</string>
     <string name="button_checkmark">Onay İşareti</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Tamam</string>
     <string name="gallery">Galeri</string>
     <string name="load_sticker_error">Çıkartma yüklenemedi</string>

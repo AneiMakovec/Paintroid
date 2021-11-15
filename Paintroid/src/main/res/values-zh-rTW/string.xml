@@ -38,6 +38,7 @@
     <string name="button_spray_can">噴霧罐</string>
     <string name="button_apply">申請</string>
     <string name="button_checkmark">複選標記</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">完成</string>
     <string name="gallery">畫廊</string>
     <string name="load_sticker_error">無法加載貼紙</string>

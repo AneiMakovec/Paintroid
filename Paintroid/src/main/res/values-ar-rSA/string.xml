@@ -38,6 +38,7 @@
     <string name="button_spray_can">يمكن الرش</string>
     <string name="button_apply">تطبيق</string>
     <string name="button_checkmark">علامة الاختيار</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">موافق</string>
     <string name="gallery">معرض</string>
     <string name="load_sticker_error">تعذر تحميل الملصق</string>

@@ -38,6 +38,7 @@
     <string name="button_spray_can">Kanaçe me spërkatje</string>
     <string name="button_apply">Apliko</string>
     <string name="button_checkmark">Shenjë kontrolli</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">i përfunduar</string>
     <string name="gallery">Galeria</string>
     <string name="load_sticker_error">Pulla nuk mund të ngarkohej </string>

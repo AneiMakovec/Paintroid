@@ -38,6 +38,7 @@
     <string name="button_spray_can">喷雾罐</string>
     <string name="button_apply">申请</string>
     <string name="button_checkmark">勾选</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">已完成</string>
     <string name="gallery">画廊</string>
     <string name="load_sticker_error">无法加载贴纸</string>

@@ -38,6 +38,7 @@
     <string name="button_spray_can">کتی اسپری</string>
     <string name="button_apply">اعمال</string>
     <string name="button_checkmark">علامت </string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">ﺍﻧﺠﺎﻡ شد</string>
     <string name="gallery">انتخاب تصویر</string>
     <string name="load_sticker_error">برچسب را نمی توان بارگیری کرد</string>

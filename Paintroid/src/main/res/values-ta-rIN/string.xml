@@ -38,6 +38,7 @@
     <string name="button_spray_can">தெளிப்பு முடியும்</string>
     <string name="button_apply">அமல்படுத்து</string>
     <string name="button_checkmark">செக்மார்க்</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">முடிந்தது</string>
     <string name="gallery">படம் தேர்ந்தெடு</string>
     <string name="load_sticker_error">ஸ்டிக்கரை ஏற்ற முடியவில்லை</string>

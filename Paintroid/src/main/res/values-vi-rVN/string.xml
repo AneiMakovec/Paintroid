@@ -38,6 +38,7 @@
     <string name="button_spray_can">Bình xịt</string>
     <string name="button_apply">Ứng dụng</string>
     <string name="button_checkmark">Đánh dấu</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Đã Thực hiện</string>
     <string name="gallery">Bộ sưu tập</string>
     <string name="load_sticker_error">Không thể tải Hình dán</string>

@@ -38,6 +38,7 @@
     <string name="button_spray_can">スプレー缶</string>
     <string name="button_apply">適用</string>
     <string name="button_checkmark">チェックマーク</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">完了</string>
     <string name="gallery">ギャラリー</string>
     <string name="load_sticker_error">ステッカーを読み込めませんでした</string>

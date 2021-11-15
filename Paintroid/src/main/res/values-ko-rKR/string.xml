@@ -38,6 +38,7 @@
     <string name="button_spray_can">스프레이 캔</string>
     <string name="button_apply">사용하기</string>
     <string name="button_checkmark">체크 표시</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">완료</string>
     <string name="gallery">갤러리</string>
     <string name="load_sticker_error">스티커를로드 할 수 없습니다.</string>

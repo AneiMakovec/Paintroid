@@ -38,6 +38,7 @@
     <string name="button_spray_can">กระป๋องสเปรย์</string>
     <string name="button_apply">นำไปใช้</string>
     <string name="button_checkmark">เครื่องหมายถูก</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">เสร็จสิ้น</string>
     <string name="gallery">คลังภาพ</string>
     <string name="load_sticker_error">ไม่สามารถโหลดสติกเกอร์ได้</string>

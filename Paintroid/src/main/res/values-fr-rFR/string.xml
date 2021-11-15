@@ -38,6 +38,7 @@
     <string name="button_spray_can">Boîte en vaporisateur</string>
     <string name="button_apply">Appliquer</string>
     <string name="button_checkmark">Cochez la case</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Terminé</string>
     <string name="gallery">Galerie</string>
     <string name="load_sticker_error">Impossible de charger l\'autocollant</string>

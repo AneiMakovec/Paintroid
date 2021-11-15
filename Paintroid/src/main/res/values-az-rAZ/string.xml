@@ -38,6 +38,7 @@
     <string name="button_spray_can">Sprey qutusu</string>
     <string name="button_apply">Tətbiq et</string>
     <string name="button_checkmark">Təsdiq işarəsi</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Hazırdır</string>
     <string name="gallery">Qalareya</string>
     <string name="load_sticker_error">Stiker yüklənə bilmədi</string>
